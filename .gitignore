@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.res
+*.pkl
+robust04_index/
+runs/
+.ipynb_checkpoints/
