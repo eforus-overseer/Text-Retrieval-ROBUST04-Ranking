@@ -144,3 +144,11 @@ All notebooks are designed for **Databricks** with GPU. They automatically downl
 ## License
 
 Academic project — Reichman University, 2026.
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/text-retrieval-robust04-ranking/) — Try an interactive explanation and inspect the original source and results. Browser teaching examples are distinguished from trained models.
+<!-- demo-lab:end -->
